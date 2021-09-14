@@ -1,1 +1,6 @@
-hola es mi configuracion
+grupo: "Academia"
+
+aplicacion:
+  version: 1.0
+  pais: "mx"
+  lenguaje: "es"
